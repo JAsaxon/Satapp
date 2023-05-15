@@ -1,6 +1,6 @@
 # SAT Vocabulary Quiz App
 
-This is a simple SAT vocabulary quiz application built using React and SCSS, utilizing the Merriam-Webster Dictionary API and Thesaurus API for question generation. This project is perfect for students studying for the SATs or those wanting to expand their vocabulary in a fun and interactive way.
+This is a simple open-source SAT vocabulary quiz application built using React and SCSS, utilizing the Merriam-Webster Dictionary API and Thesaurus API for question generation. This project is perfect for students studying for the SATs or those wanting to expand their vocabulary in a fun and interactive way.
 
 ## Features
 
@@ -25,6 +25,16 @@ Navigate to the project folder:
 
 ```bash
 cd Satapp
+```
+
+Install npm packages
+```bash
+npm i 
+```
+
+Run dev server
+```
+npm run dev
 ```
 
 ## Setting up the Environment Variables
